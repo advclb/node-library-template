@@ -1,2 +1,11 @@
-# node-library-template
-Template for Node.js libraries and tools
+# Foobar
+
+## Installation
+
+## API Reference
+
+## Examples
+
+## Copyright
+
+## License
